@@ -1,22 +1,35 @@
-# IBM-Project-12422-1659451114
+# IBM-Project-PNT2022TMID40119
 Global Sales Data Analytics
-# IBM-Project-6493-1658830123
+
 - Technology : DATA ANALYTICS
-- Team ID    : PNT2022TMID00819
+- Team ID    : PNT2022TMID40119
 - Batch NO   : B4-4M6E
 
 ## Team Details
 
-- Team Leader___: NANDA KUMAR B
-- Team Member 1: OM PRASATH M
-- Team Member 2: PAUL ALLAN T
-- Team Member 3: NARESHKUMAR C
+- Team Leader___: MD ADNAN K
+- Team Member 1: POOJA S
+- Team Member 2: MOHAMMED SAAD D
+- Team Member 3:SOWMIYA V
 
 ## Global Sales Data Analytics
 
 ### Abstract
 
-Due to the proliferation of information in daily life, data is being produced at an extremely quick rate. Numerous organisations produce vast amounts of data that are challenging to evaluate and utilise. Huge data are produced by an increasing number of environmental sensors, including satellites and traffic cameras, internet activity on social networking sites, healthcare databases, government databases, sales data, etc. It is difficult to process, analyse, and communicate this data. Every day, huge amounts of sales data are poured onto online purchasing platforms. It is challenging to analyse and visualise this data for information retrieval. Consequently, a system that can efficiently analyse and visualise data is needed.
+The main purpose our Global sales Data analytics Project is to provide
+solution that can help you identify gaps and improve your sales processes
+and helps you boost sales productivity, Identify new sales opportunities,
+Plan effective sales targets, Improve customer acquisition, Increase
+customer retention and make data driven decisions.Global Sales Data
+analytics is your sales team’s hidden superpower. It can enable your agents
+to spot key trends, dive deep, predict outcomes, and increase productivity.
+Accurate analysis also gives your team the ability to tailor their efforts and
+prioritize high-value prospects. Plus, it may even help spotlight new
+opportunities for your business to pursue.Global Sales Data analytics
+allows you to better gauge team performance and uncover areas for
+improvement, too. Understanding those strengths and weaknesses leads to
+better training, more attainable goals, and a cohesive team.The use of
+sales analytics solutions is quickly increasing in the commercial world.
 
 # Status
 
@@ -27,12 +40,12 @@ Due to the proliferation of information in daily life, data is being produced at
 |Assignment 1 | completed|
 |Assignment 2 | completed|
 |Assignment 3 | completed|
-|Assignment 3 | completed|
+|Assignment 4 | completed|
 
 ## PROJECT DESIGN & PLANNING
 
 ### Ideation phase
-Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
+
 
 |Ideation Phase|Status|
 |-|-|
@@ -42,7 +55,7 @@ Ideation is the process where you generate ideas and solutions through sessions 
 |Brainstorm | completed|
 
 ##  Design phase
-In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
+
 
 ### Project design phase 01
 
