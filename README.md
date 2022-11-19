@@ -74,6 +74,12 @@ sales analytics solutions is quickly increasing in the commercial world.
 |Data Flow Diagrams | completed|
 |Technology Architecture | completed|
 
+### Project Planning
+|Design planning |Status|
+|-|-|
+|Milestone and Activity List | completed|
+|Sprint Delivery plan| completed|
+
 ### Project development
 
 |Spirint |Status|
